@@ -21,7 +21,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jacob-droid-crypto&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
- ![snake gif](https://github.com/Jacob-droid-crypto/Jacob-droid-cryptok/blob/output/github-snake-dark.svg)
+ ![snake gif](https://github.com/Jacob-droid-crypto/Jacob-droid-crypto/blob/output/github-snake-dark.svg)
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
