@@ -24,6 +24,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1500"/>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Jacob-droid-crypto&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+ ![snake gif](https://github.com/Jacob-droid-crypto/Jacob-droid-cryptok/blob/output/github-snake-dark.svg)
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
