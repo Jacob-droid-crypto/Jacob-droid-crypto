@@ -1,8 +1,7 @@
 <div align="center" style="padding: 20px; background-color: #f5f5f5; border-radius: 15px; box-shadow: 2px 2px 15px rgba(0,0,0,0.2);">
 
 <h1 align="center"> Hi 👋, I'm JACOB THOMAS</h1>
-
-<h2 align="center"> 💫 About Me:</h2>
+**<img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/>**  **About me**
 
 🔭 I’m currently working on some web development projects.<br>
 🤝 I’m looking for help with web development skills.<br>
